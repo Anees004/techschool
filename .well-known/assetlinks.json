@@ -5,10 +5,12 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.deeplink_demo",
+            "package_name": "com.unify.chatter",
             "sha256_cert_fingerprints": [
+                "9C:39:B7:C1:EF:EA:20:12:60:9C:5F:65:9C:71:E4:FD:14:05:04:C2:24:1C:2F:C7:23:44:A9:81:78:19:AD:B9",
                 "3C:87:1F:25:47:2D:8D:65:02:C5:E9:DB:EF:B1:F7:4E:F1:BA:57:F4:E4:A1:2B:4D:94:97:FE:CF:55:DC:8E:B4"
             ]
+
         }
     }
 ]
